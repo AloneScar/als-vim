@@ -1,6 +1,6 @@
 # als-vim
 
-## Install Neovim On Ubuntu (>18)
+## Install Neovim On Ubuntu (>=18.04)
 
 1. Go to https://hub.fastgit.xyz/neovim/neovim/releases
 2. Download nvim.appimage
